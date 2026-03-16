@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Farida Charania
 
-<!--
-**Farida-AI-FutureProof/Farida-AI-FutureProof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO – Career Zoom  
+AI & Data Science Practitioner  
 
-Here are some ideas to get you started:
+I recently completed the **NTU Advanced Professional Certificate in Data Science & AI** and am continuing to explore how AI can transform talent, hiring, and workforce intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is my **AI learning lab**, where I document experiments, models, and practical AI applications.
+
+## Focus Areas
+
+• Machine Learning  
+• Natural Language Processing  
+• Generative AI  
+• Data Analytics  
+• AI for Recruitment & Talent Intelligence  
+
+## Current Projects
+
+🔹 Resume Classification Models  
+🔹 Candidate–Job Matching Algorithms  
+🔹 Talent Demand Prediction  
+🔹 Recruitment Analytics Dashboards  
+
+## Philosophy
+
+AI should not remain in research papers.  
+My goal is to translate AI into **practical business tools that create real-world value.**
+
+## Connect with Me
+
+LinkedIn: https://linkedin.com/in/faridachariana
